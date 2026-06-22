@@ -46,7 +46,7 @@ const dishes = [
 ];
 
 const visitItems = [
-  { title: "地址", text: "梧桐路 27 号，一层临街铺" },
+  { title: "地址", text: "杭州市钱塘江" },
   { title: "营业", text: "周二至周日 18:00 - 23:00" },
   { title: "电话", text: "021-8800-2717" },
 ];
