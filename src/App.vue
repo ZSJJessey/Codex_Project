@@ -21,25 +21,25 @@ const stats = [
 const dishes = [
   {
     name: "炭烤桂花鸡",
-    description: "桂花蜜汁、焦香鸡皮、山椒青菜",
+    description: "炭火烤出脆香鸡皮，刷桂花蜜汁，配山椒青菜解腻",
     price: "¥88",
     imageClass: "dish-one",
   },
   {
     name: "菌菇黄油饭",
-    description: "三种时令菌、发酵黄油、香葱油",
+    description: "时令菌菇与发酵黄油拌入热饭，最后点香葱油提香",
     price: "¥66",
     imageClass: "dish-two",
   },
   {
     name: "陈皮梅子排骨",
-    description: "低温慢煮、梅子酱、烤蒜泥",
+    description: "排骨慢煮至软糯，陈皮梅子酱酸甜收口，烤蒜泥增香",
     price: "¥92",
     imageClass: "dish-three",
   },
   {
     name: "松茸老火汤",
-    description: "松茸、土鸡、竹荪，慢炖清鲜回甘",
+    description: "松茸、土鸡与竹荪小火慢炖，汤色清亮，入口回甘",
     price: "¥58",
     imageClass: "dish-four",
   },
